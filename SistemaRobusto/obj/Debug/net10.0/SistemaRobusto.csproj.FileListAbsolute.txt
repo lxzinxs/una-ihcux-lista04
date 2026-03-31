@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.exe
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.deps.json
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.runtimeconfig.json
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.dll
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\bin\Debug\net10.0\SistemaRobusto.pdb
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.AssemblyInfo.cs
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.dll
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\refint\SistemaRobusto.dll
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.pdb
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\SistemaRobusto.genruntimeconfig.cache
+C:\Users\lucas\Documents\UNA\1-semestre\Daniel - interacao humana e computador ux\LabDoNet\SistemaRobusto\obj\Debug\net10.0\ref\SistemaRobusto.dll
